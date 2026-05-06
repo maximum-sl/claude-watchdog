@@ -91,6 +91,12 @@ job 422s, your prompt's pulling too much context, tighten it.
 
 v0.1. Running on the author's machine for ~3 months across 20+ jobs.
 
+## Related
+
+[claude-oneshot](https://github.com/maximum-sl/claude-oneshot) is the same
+env-stripping + strict-mcp-config pattern as a standalone wrapper, for when
+you want it in scripts but don't need the scheduling layer.
+
 ## License
 
 MIT.
